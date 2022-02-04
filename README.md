@@ -10,7 +10,7 @@ Android app that allows users to apply GPU Image filters into images that can be
 
 <table width="100%">
   <tr>
-    <th width="25%"><img src="(https://user-images.githubusercontent.com/83513508/151923768-81469e8f-ab58-4ac3-8dd8-e76fcdfc656d.jpg"</th>
+    <th width="25%"><img src="https://user-images.githubusercontent.com/83513508/151923768-81469e8f-ab58-4ac3-8dd8-e76fcdfc656d.jpg"</th>
     <th width="25%"><img src="https://user-images.githubusercontent.com/83513508/151923772-0b16bd6d-e8ee-4895-94a0-2d107f607600.jpg"</th>
     <th width="25%"><img src="https://user-images.githubusercontent.com/83513508/151923776-95631bd8-b235-4321-a03b-b6689ab23c2a.jpg"</th>
   </tr>
